@@ -1,0 +1,28 @@
+IdProducto	NombreProducto	IdProveedor	IdCategoría	CantidadPorUnidad	PrecioUnidad	UnidadesEnExistencia	UnidadesEnPedido	NivelNuevoPedido
+51	Manzanas secas Manjimup	24	7	50 - paq. 300 g	53,00	20	0	10
+52	Cereales para Filo	24	5	16 - cajas 2 kg	7,00	38	0	25
+53	Empanada de carne	24	6	48 porc.	32,80	0	0	0
+54	Empanada de cerdo	25	6	16 tartas	7,45	21	0	10
+55	Paté chino	25	6	24 cajas x 2 tartas	24,00	115	0	20
+56	Gnocchi de la abuela Alicia	26	5	24 - paq. 250 g	38,00	21	10	30
+57	Raviolis Angelo	26	5	24 - paq. 250 g	19,50	36	0	20
+58	Caracoles de Borgoña	27	8	24 porc.	13,25	62	0	20
+59	Raclet de queso Courdavault	28	4	paq. 5 kg	55,00	79	0	0
+60	Camembert Pierrot	28	4	15 - paq. 300 g	34,00	19	0	0
+61	Sirope de arce	29	2	24 - bot. 500 ml	28,50	113	0	25
+62	Tarta de azúcar	29	3	48 tartas	49,30	17	0	0
+63	Sandwich de vegetales	7	2	15 - frascos 625 g	43,90	24	0	5
+64	Bollos de pan de Wimmer	12	5	20 bolsas x 4 porc.	33,25	22	80	30
+65	Salsa de pimiento picante de Luisiana	2	2	32 - bot. 8 l	21,05	76	0	0
+66	Especias picantes de Luisiana	2	2	24 - frascos 8 l	17,00	4	100	20
+67	Cerveza Laughing Lumberjack	16	1	24 - bot. 12 l	14,00	52	0	10
+68	Barras de pan de Escocia	8	3	10 cajas x 8 porc.	12,50	6	10	15
+69	Queso Gudbrandsdals	15	4	paq. 10 kg	36,00	26	0	15
+70	Cerveza Outback	7	1	24 - bot. 355 ml	15,00	15	10	30
+71	Crema de queso Fløtemys	15	4	10 - paq. 500 g	21,50	26	0	0
+72	Queso Mozzarella Giovanni	14	4	24 - paq. 200 g	34,80	14	0	0
+73	Caviar rojo	17	8	24 - frascos150 g	15,00	101	0	5
+74	Queso de soja Longlife	4	7	paq. 5 kg	10,00	4	20	5
+75	Cerveza Klosterbier Rhönbräu	12	1	24 - bot. 0,5 l	7,75	125	0	25
+76	Licor Cloudberry	23	1	500 ml	18,00	57	0	20
+77	Salsa verde original Frankfurter	12	2	12 cajas	13,00	32	0	15

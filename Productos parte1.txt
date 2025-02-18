@@ -1,0 +1,51 @@
+IdProducto	NombreProducto	IdProveedor	IdCategoría	CantidadPorUnidad	PrecioUnidad	UnidadesEnExistencia	UnidadesEnPedido	NivelNuevoPedido
+1	Té Dharamsala	1	1	10 cajas x 20 bolsas	18,00	39	0	10
+2	Cerveza tibetana Barley	1	1	24 - bot. 12 l	19,00	17	40	25
+3	Sirope de regaliz	1	2	12 - bot. 550 ml	10,00	13	70	25
+4	Especias Cajun del chef Anton	2	2	48 - frascos 6 l	22,00	53	0	0
+5	Mezcla Gumbo del chef Anton	2	2	36 cajas	21,35	0	0	0
+6	Mermelada de grosellas de la abuela	3	2	12 - frascos 8 l	25,00	120	0	25
+7	Peras secas orgánicas del tío Bob	3	7	12 - paq. 1 kg	30,00	15	0	10
+8	Salsa de arándanos Northwoods	3	2	12 - frascos 12 l	40,00	6	0	0
+9	Buey Mishi Kobe	4	6	18 - paq. 500 g	97,00	29	0	0
+10	Pez espada	4	8	12 - frascos 200 ml	31,00	31	0	0
+11	Queso Cabrales	5	4	paq. 1 kg	21,00	22	30	30
+12	Queso Manchego La Pastora	5	4	10 - paq. 500 g	38,00	86	0	0
+13	Algas Konbu	6	8	caja 2 kg	6,00	24	0	5
+14	Cuajada de judías	6	7	40 - paq. 100 g	23,25	35	0	0
+15	Salsa de soja baja en sodio	6	2	24 - bot. 250 ml	15,50	39	0	5
+16	Postre de merengue Pavlova	7	3	32 - cajas 500 g	17,45	29	0	10
+17	Cordero Alice Springs	7	6	20 - latas 1 kg	39,00	0	0	0
+18	Langostinos tigre Carnarvon	7	8	paq. 16 kg	62,50	42	0	0
+19	Pastas de té de chocolate	8	3	10 cajas x 12 piezas	9,20	25	0	5
+20	Mermelada de Sir Rodney's	8	3	30 cajas regalo	81,00	40	0	0
+21	Bollos de Sir Rodney's	8	3	24 paq. x 4 piezas	10,00	3	40	5
+22	Pan de centeno crujiente estilo Gustaf's	9	5	24 - paq. 500 g	21,00	104	0	25
+23	Pan fino	9	5	12 - paq. 250 g	9,00	61	0	25
+24	Refresco Guaraná Fantástica	10	1	12 - latas 355 ml	4,50	20	0	0
+25	Crema de chocolate y nueces NuNuCa	11	3	20 - vasos  450 g	14,00	76	0	30
+26	Ositos de goma Gumbär	11	3	100 - bolsas 250 g	31,23	15	0	0
+27	Chocolate Schoggi	11	3	100 - piezas 100 g	43,90	49	0	30
+28	Col fermentada Rössle	12	7	25 - latas 825 g	45,60	26	0	0
+29	Salchicha Thüringer	12	6	50 bolsas x 30 salch	123,79	0	0	0
+30	Arenque blanco del noroeste	13	8	10 - vasos 200 g	25,89	10	0	15
+31	Queso gorgonzola Telino	14	4	12 - paq. 100 g	12,50	0	70	20
+32	Queso Mascarpone Fabioli	14	4	24 - paq. 200 g	32,00	9	40	25
+33	Queso de cabra	15	4	500 g	2,50	112	0	20
+34	Cerveza Sasquatch	16	1	24 - bot. 12 l	14,00	111	0	15
+35	Cerveza negra Steeleye	16	1	24 - bot. 12 l	18,00	20	0	15
+36	Escabeche de arenque	17	8	24 - frascos 250 g	19,00	112	0	20
+37	Salmón ahumado Gravad	17	8	12 - paq. 500 g	26,00	11	50	25
+38	Vino Côte de Blaye	18	1	12 - bot. 75 cl	263,50	17	0	15
+39	Licor verde Chartreuse	18	1	750 cc por bot.	18,00	69	0	5
+40	Carne de cangrejo de Boston	19	8	24 - latas 4 l	18,40	123	0	30
+41	Crema de almejas estilo Nueva Inglaterra	19	8	12 - latas 12 l	9,65	85	0	10
+42	Tallarines de Singapur	20	5	32 - 1 kg paq.	14,00	26	0	0
+43	Café de Malasia	20	1	16 - latas 500 g	46,00	17	10	25
+44	Azúcar negra Malacca	20	2	20 - bolsas 2 kg	19,45	27	0	15
+45	Arenque ahumado	21	8	paq. 1k	9,50	5	70	15
+46	Arenque salado	21	8	4 - vasos 450 g	12,00	95	0	0
+47	Galletas Zaanse	22	3	10 - cajas 4 l	9,50	36	0	0
+48	Chocolate holandés	22	3	10 paq.	12,75	15	70	25
+49	Regaliz	23	3	24 - paq. 50 g	20,00	10	60	15
+50	Chocolate blanco	23	3	12 - barras 100 g	16,25	65	0	30
